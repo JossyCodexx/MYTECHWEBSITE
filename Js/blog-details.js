@@ -81,132 +81,132 @@ document.addEventListener("DOMContentLoaded", function () {
       title: "Introduction to Crypto Trading",
       description: "Get started with crypto trading and understand the basics of blockchain, wallets, and exchanges.",
       images: [
-        "./assets/blog1-1.jpg.jpg",
-        "./assets/blog2-2.jpg.jpg",
-        "./assets/blog3-3.jpg.jpg",
-        "./assets/blog4-4.jpg.jpg",
-        "./assets/blog5-5.jpg.jpg"
+        "./images/blog1-1.jpg.jpg",
+        "./images/blog2-2.jpg.jpg",
+        "./images/blog3-3.jpg.jpg",
+        "./images/blog4-4.jpg.jpg",
+        "./images/blog5-5.jpg.jpg"
       ]
     },
     {
       title: "Gift Card Trading Tips",
       description: "Discover smart strategies for safely trading gift cards and getting the best rates online.",
       images: [
-        "./assets/card-blog1.jpg.jpg",
-        "./assets/card-blog2.jpg.jpg",
-        "./assets/card-blog3.jpg.jpg",
-        "./assets/card-blog4.jpg.jpg",
-        "./assets/card-blog5.jpg.jpg"
+        "images/card-blog1.jpg.jpg",
+        "images/card-blog2.jpg.jpg",
+        "images/card-blog3.jpg.jpg",
+        "images/card-blog4.jpg.jpg",
+        "images/card-blog5.jpg.jpg"
       ]
     },
     {
       title: "Top 5 Crypto Wallets",
       description: "We reviewed the top 5 crypto wallets in 2025. See which is best for your needs and why.",
       images: [
-        "./assets/wallet1.jpg.jpg",
-        "./assets/wallet2.jpg.jpg",
-        "./assets/wallet3.jpg.jpg",
-        "./assets/wallet4.jpg.jpg",
-        "./assets/wallet5.jpg.jpg"
+        "./images/wallet1.jpg.jpg",
+        "./images/wallet2.jpg.jpg",
+        "./images/wallet3.jpg.jpg",
+        "./images/wallet4.jpg.jpg",
+        "./images/wallet5.jpg.jpg"
       ]
     },
     {
       title: "How to Avoid Crypto Scams",
       description: "Learn the most common crypto scams and how to protect yourself from fraud and fake platforms.",
       images: [
-        "./assets/samm1.jpg.jpg",
-        "./assets/samm2.jpg.jpg",
-        "./assets/samm3.jpg.jpg",
-        "./assets/samm4.jpg.jpg",
-        "./assets/samm5.jpg.jpg"
+        "./images/samm1.jpg.jpg",
+        "./images/samm2.jpg.jpg",
+        "./images/samm3.jpg.jpg",
+        "./images/samm4.jpg.jpg",
+        "./images/samm5.jpg.jpg"
       ]
     },
     {
       title: "Best Crypto Trading Apps",
       description: "Explore the best apps for mobile crypto trading in 2025, including fees and security features.",
       images: [
-        "./assets/bet1.jpg.jpg",
-        "./assets/bet2.jpg.jpg",
-        "./assets/bet3.jpg.jpg",
-        "./assets/bet4.jpg.jpg",
-        "./assets/bet5.jpg.jpg"
+        "./images/bet1.jpg.jpg",
+        "./images/bet2.jpg.jpg",
+        "./images/bet3.jpg.jpg",
+        "./images/bet4.jpg.jpg",
+        "./images/bet5.jpg.jpg"
       ]
     },
     {
       title: "How Blockchain Works",
       description: "An easy-to-understand explanation of how blockchain technology powers cryptocurrencies today.",
       images: [
-        "./assets/chine1.jpg.jpg",
-        "./assets/chine2.jpg.jpg",
-        "./assets/chine3.jpg.jpg",
-        "./assets/chine4.jpg.jpg",
-        "./assets/chine5.jpg.jpg"
+        "./images/chine1.jpg.jpg",
+        "./images/chine2.jpg.jpg",
+        "./images/chine3.jpg.jpg",
+        "./images/chine4.jpg.jpg",
+        "./images/chine5.jpg.jpg"
       ]
     },
     {
       title: "Top Gift Cards to Sell",
       description: "Wondering which gift cards sell fast and at the best rates? Here's your go-to guide.",
       images: [
-        "./assets/cards1.jpg.jpg",
-        "./assets/cards2.jpg.jpg",
-        "./assets/cards3.jpg.jpg",
-        "./assets/cards4.jpg.jpg",
-        "./assets/cards5.jpg.jpg"
+        "./images/cards1.jpg.jpg",
+        "./images/cards2.jpg.jpg",
+        "./images/cards3.jpg.jpg",
+        "./images/cards4.jpg.jpg",
+        "./images/cards5.jpg.jpg"
       ]
     },
     {
       title: "Secure Trading Platforms",
       description: "A breakdown of the safest and most trusted trading platforms for gift cards and crypto.",
       images: [
-        "./assets/cbbb1.jpg.jpg",
-        "./assets/cbbb2.jpg.jpg",
-        "./assets/cbbb3.jpg.jpg",
-        "./assets/cbbb4.jpg.jpg",
-        "./assets/cbbb55.jpg.jpg"
+        "./images/cbbb1.jpg.jpg",
+        "./images/cbbb2.jpg.jpg",
+        "./images/cbbb3.jpg.jpg",
+        "./images/cbbb4.jpg.jpg",
+        "./images/cbbb5.jpg.jpg"
       ]
     },
     {
       title: "Understanding Bitcoin",
       description: "What is Bitcoin really? Here's a simple explanation of the first cryptocurrency ever created.",
       images: [
-        "./assets/bblitttttt-1.jpg.jpg",
-        "./assets/bblitttttt-2.jpg.jpg",
-        "./assets/bblitttttt-3.jpg.jpg",
-        "./assets/bblitttttt-4.jpg.jpg",
-        "./assets/bblitttttt-5.jpg.jpg"
+        "./images/tttt-1.jpg.jpg",
+        "./images/tttt-2.jpg.jpg",
+        "./images/tttt-3.jpg.jpg",
+        "./images/tttt-4.jpg.jpg",
+        "./images/tttt-5.jpg.jpg"
       ]
     },
     {
       title: "How to Sell Crypto Fast",
       description: "Learn proven methods to quickly and safely sell your crypto for the best market rates.",
       images: [
-        "./assets/kkkkkk1.jpg.jpg",
-        "./assets/kkkkkk2.jpg.jpg",
-        "./assets/kkkkkk3.jpg.jpg",
-        "./assets/kkkkkk4.jpg.jpg",
-        "./assets/kkkkkk5.jpg.jpg"
+        "./images/kkk1.jpg.jpg",
+        "./images/kkk2.jpg.jpg",
+        "./images/kkk3.jpg.jpg",
+        "./images/kkk4.jpg.jpg",
+        "./images/kkk5.jpg.jpg"
       ]
     },
     {
       title: "Top 10 Crypto Myths",
       description: "Let’s bust some of the most common myths about cryptocurrency and the blockchain world.",
       images: [
-        "./assets/maysss1.jpg.jpg",
-        "./assets/maysss2.jpg.jpg",
-        "./assets/maysss3.jpg.jpg",
-        "./assets/maysss4.jpg.jpg",
-        "./assets/maysss5.jpg.jpg"
+        "./images/ma1.jpg.jpg",
+        "./images/ma2.jpg.jpg",
+        "./images/ma3.jpg.jpg",
+        "./images/ma4.jpg.jpg",
+        "./images/ma5.jpg.jpg"
       ]
     },
     {
       title: "Gift Card Scams to Avoid",
       description: "Not all deals are good deals. Know the red flags when buying or selling gift cards online.",
       images: [
-        "./assets/cammmmmm1.jpg.jpg",
-        "./assets/cammmmmm2.jpg.jpg",
-        "./assets/cammmmmm3.jpg.jpg",
-        "./assets/cammmmmm4.jpg.jpg",
-        "./assets/cammmmmm5.jpg.jpg"
+        "./images/aaa1.jpg.jpg",
+        "./images/aaa2.jpg.jpg",
+        "./images/aaa3.jpg.jpg",
+        "./images/aaa4.jpg.jpg",
+        "./images/aaa5.jpg.jpg"
       ]
     },
   ];

@@ -34,42 +34,42 @@ const projects = [
   {
     id: "1",
     title: "Crypto Exchange Web App",
-    img: "../assets/cryptoexchange1uuuu.jpg.jpg.jpg.jpg.jpg",
+    img: "./images/zrpto1.jpg.jpg",
     description:
       "Built a responsive cryptocurrency trading platform with real-time updates, authentication, and wallet integration.",
   },
   {
     id: "2",
     title: "Gift Card Trading Platform",
-    img: "../assets/giftcardstraning2.jpg.jpg.jpg.jpg.jpg",
+    img: "./images/zrpto2.jpg.jpg",
     description:
       "Developed a platform to securely buy and sell gift cards with user profiles, messaging, and reviews.",
   },
   {
     id: "3",
     title: "Tech Blog CMS",
-    img: "../assets/cmstechblog3.jpg.jpg.jpg",
+    img: "./images/zrpto3.jpg.jpg",
     description:
       "Created a content management system where users can post, edit, and comment on tech articles.",
   },
   {
     id: "4",
     title: "E-commerce Website",
-    img: "../assets/e-commerce1111.jpg.jpg.jpg",
+    img: "./images/zrpto4.jpg.jpg",
     description:
       "Online store built with React, Node.js, and Stripe payment integration.",
   },
   {
     id: "5",
     title: "Real Estate Platform",
-    img: "../assets/realestate222222.jpg.jpg.jpg",
+    img: "./images/zrpto5.jpg.jpg",
     description:
       "Property listing platform with map integration and user dashboards.",
   },
   {
     id: "6",
     title: "Crypto Trading App",
-    img: "../assets/cryptotraningapp6.jpg.jpg",
+    img: "./images/zrpto6.jpg.jpg",
     description:
       "Full-stack crypto trading platform with live market prices and wallet system.",
   },
